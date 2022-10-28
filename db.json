@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "id": "GGOEAFKA087499",
+      "id": 1,
       "urlImagen": "https://i.blogs.es/27b569/telefono/450_1000.jpeg",
       "nombre": "Android Small Removable Sticker Sheet",
       "descripcion": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
@@ -9,7 +9,7 @@
       "precio": 1.99
     },
     {
-      "id": "GGOEAFKA087599",
+      "id": 2,
       "urlImagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e05aa78e5bd04ce68cdcab220128a296_9366/Zapatilla_Duramo_SL_Azul_FV8787_06_standard.jpg",
       "nombre": "Tennis",
       "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
@@ -17,7 +17,7 @@
       "precio": 7.99
     },
     {
-      "id": "GGOEAFKA087699",
+      "id": 3,
       "urlImagen": "https://okdiario.com/img/2019/06/01/doberman-893931_1920-1-1.jpg",
       "nombre": "Doberman",
       "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
@@ -25,7 +25,7 @@
       "precio": 5.99
     },
     {
-      "id": "GGOEAFKA087799",
+      "id": 4,
       "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik's_cube.svg/240px-Rubik's_cube.svg.png",
       "nombre": "Pitbul",
       "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
