@@ -11,26 +11,26 @@
     {
       "id": "GGOEAFKA087599",
       "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik's_cube.svg/240px-Rubik's_cube.svg.png",
-      "name": "Android Large Removable Sticker Sheet",
-      "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
+      "nombre": "Android Large Removable Sticker Sheet",
+      "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": 7.99
+      "precio": 7.99
     },
     {
       "id": "GGOEAFKA087699",
       "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik's_cube.svg/240px-Rubik's_cube.svg.png",
-      "name": "Android Large Removable Sticker Sheet",
-      "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
+      "nombre": "Android Large Removable Sticker Sheet",
+      "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": 5.99
+      "precio": 5.99
     },
     {
       "id": "GGOEAFKA087799",
       "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik's_cube.svg/240px-Rubik's_cube.svg.png",
-      "name": "Android Large Removable Sticker Sheet",
-      "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
+      "nombre": "Android Large Removable Sticker Sheet",
+      "descripcion": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": 3.99
+      "precio": 3.99
     }
   ]
 }
