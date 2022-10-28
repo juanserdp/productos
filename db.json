@@ -6,7 +6,7 @@
       "nombre": "Android Small Removable Sticker Sheet",
       "descripcion": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
       "caracteristicas": "<p>8 Android stickers</p>\n<p>White colored sticker sheet</p>",
-      "precio": "2.99"
+      "precio": 1.99
     },
     {
       "id": "GGOEAFKA087599",
@@ -14,7 +14,7 @@
       "name": "Android Large Removable Sticker Sheet",
       "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": "2.99"
+      "price": 7.99
     },
     {
       "id": "GGOEAFKA087699",
@@ -22,7 +22,7 @@
       "name": "Android Large Removable Sticker Sheet",
       "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": "2.99"
+      "price": 5.99
     },
     {
       "id": "GGOEAFKA087799",
@@ -30,7 +30,7 @@
       "name": "Android Large Removable Sticker Sheet",
       "description": "Show your quirky side by placing these fun Android stickers on your personal belongings.",
       "caracteristicas": "<p>Android Stickers</p>\n<p>White Colored Sticker Sheet</p>",
-      "price": "2.99"
+      "price": 3.99
     }
   ]
 }
